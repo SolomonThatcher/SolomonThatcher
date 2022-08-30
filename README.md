@@ -10,7 +10,7 @@ and I love to learn new things about tech and security.
 
 - Lenovo Legion running Debian + MATE
 - CF-31 Toughbook Dual-booting Arch+xfce and OpenBSD+cwm
-- Pinephone Dev Edition running arch+sxmo
+- Pinephone Dev Edition running Arch+sxmo
 - Homelab which consists of mostly old supermicro equipment
 
 ## 📧 Contact:
@@ -40,7 +40,3 @@ Ic9iDBUSYKe92sEDmQRORVyzIfRf8DzNSBVJFAU8Jw==
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-<!---
-SolomonThatcher/SolomonThatcher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
