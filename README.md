@@ -9,7 +9,7 @@ and I love to learn new things about tech and security.
 ## 💻 My tech:
 
 - Lenovo Legion running Arch + DWM
-- CF-31 Toughbook Dual-booting Arch+xfce and OpenBSD+cwm
+- CF-31 Toughbook Dual-booting Hardened-Artix+dwm and OpenBSD+cwm
 - Pinephone Dev Edition running Arch+sxmo
 - Homelab which consists of mostly old supermicro equipment
 
