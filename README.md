@@ -8,9 +8,9 @@ and I love to learn new things about tech and security.
 
 ## 💻 My tech:
 
-- Lenovo Legion running Arch + DWM
-- CF-31 Toughbook Dual-booting Hardened-Artix+dwm and OpenBSD+cwm
-- Pinephone Dev Edition running Arch+sxmo
+- Lenovo Legion running Gentoo + DWM
+- CF-31 Toughbook Dual-booting Gentoo+dwm and OpenBSD+cwm
+- Pinephone Dev Edition running PostMarketOS+sxmo
 - Homelab which consists of mostly old supermicro equipment
 
 ## 📧 Contact:
