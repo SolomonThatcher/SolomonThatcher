@@ -1,9 +1,8 @@
 ## 🧍 About Me:
 
-Hi, my name is Solomon (Sy) Thatcher. I am currently studying
-Cybersecurity while working on a miriad of work and personal projects.
-I spend lots of time tinkering with linux and unix systems,
-and I love to learn new things about tech and security.
+Hi, my name is Solomon Thatcher. I am a lead datacenter technician for ZT systems 
+as well as a freelance systems administrator. I spend a lot of time in Unix/Linux
+environments and love to develop tools and solutions for everyday tasks.
 
 
 ## 💻 My tech:
